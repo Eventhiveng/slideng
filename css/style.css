@@ -476,10 +476,6 @@ textarea.input {
   /* padding-top: 0px; */
   padding-bottom: 0px;
 }
-#faq .title{
-  letter-spacing: 5px;
-  text-transform: uppercase;
-}
 #faq .panel-heading [data-toggle="collapse"]:after {
   font-family: 'fontawesome';
   content: "\f054"; /* "play" icon */
