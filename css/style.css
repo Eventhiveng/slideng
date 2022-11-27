@@ -390,6 +390,7 @@ textarea.input {
 
 #home {
   height: 100vh;
+  background: url(/img/Slide-webBg.jpg);
   position: relative;
 }
 
@@ -399,6 +400,7 @@ textarea.input {
   left: 0;
   right: 0;
   text-align: left;
+  background: url(/img/Slide-webBg.jpg);
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
